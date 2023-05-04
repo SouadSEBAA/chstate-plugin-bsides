@@ -5,7 +5,7 @@
 
 ## Installation
 ```bash
-ctfcli plugins install https://github.com/SouadSEBAA/chstate_plugin 
+ctfcli plugins install https://github.com:SouadSEBAA/chstate-plugin-bsides.git
 ```
 
 ## Usage :
